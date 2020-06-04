@@ -1,0 +1,7 @@
+{
+  "repo": "BufferScroll",
+  "name": "BufferScroll",
+  "description": "Buffer Scroll is a simple Sublime Text plug-in which remembers and restores the scroll, cursor positions, also the selections, marks, bookmarks, foldings, selected syntax and optionally the colour scheme, when you open a file. Will also remember different data depending the position of the file in the application (example file1 in window1 has scroll line 30, file1 in window2 has scroll in line 40)...",
+  "author": "titoBouzout",
+  "homepage": "https://github.com/titoBouzout/BufferScroll"
+}
